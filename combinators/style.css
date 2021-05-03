@@ -1,0 +1,19 @@
+div p {
+background-color: aquamarine;
+border: 2px solid black;
+height: 3rem;
+text-align: center;
+}
+
+.first-div p {
+color: red;
+
+}
+.second-div > span{
+font-size: 33px;
+
+}
+.third-div + p{
+    font-size: x-large;
+    background-color: royalblue;
+}

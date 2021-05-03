@@ -1,0 +1,33 @@
+.first-div{
+    background-color: blue;
+    color :black rgb(80, 189, 216);
+    text-align: center;
+    text-decoration: line-through;
+    letter-spacing: 10px;
+    text-shadow: 3px 3px;
+}
+
+.second-div{
+    background-color:red;
+    position: sticky;
+    top: 20px;
+    left: 10px;
+}
+
+.third-div{
+    background-color:#f4a460;
+    /*position: absolute;*/
+   /* top: 10px;*/
+    
+}
+
+.fourth-div{
+    background-color:seagreen;
+    /*position: fixed;*/
+   /* top:10px;*/
+}
+.fifth-div{
+    background-color: yellowgreen;
+    padding: relative;
+     top: 10px;
+}
