@@ -1,11 +1,35 @@
-html{
-    border: 3px solid blue;
+.box1{
+    background-color: blue;
+    height: 50px;
+    width: 100px;
+    float: right;
+    color: chartreuse;
+    text-align: center;
+    align-items: center;
+}
+
+.box2{
+    background-color: red;
+    height: 50px;
+    width: 100px;
+    float: left;
+    color: seagreen;
+    text-align: center;
+    align-items: center;
+}
+
+.box1{
+    border: 5px solid black;
+    margin-right: 30px;
+    margin-top: 60px;
+    margin-bottom: 150px;
+}
+.box2{
+    border: 5px solid black;
+    margin-top: 60px;
 }
 html{
-    margin-top: 30px;
-    margin-left: 10px;
-    margin-right: 850px;
-}
-html{
-    
+    border: 100%;
+    border: 5px solid black;
+    margin-top:30px;
 }
