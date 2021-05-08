@@ -1,0 +1,14 @@
+.flex-container{
+    background-color: gray;
+    display: flex;
+    padding: 10px;  
+        flex-wrap: nowrap;
+        flex-direction: row;
+    
+
+}
+.flex-container > div {
+    width: 400px;
+    background-color: green;
+    margin: 10px;
+}
